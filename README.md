@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lillybeards
+- 👋 Hi, I’m Lilly
 - 👀 I’m interested in ... generative art & jacquard weaving using code
 - 🌱 I’m currently learning ... Processing
 - 💞️ I’m looking to collaborate on ... textile/art projects
