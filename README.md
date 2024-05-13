@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lilly
-- 👀 I’m interested in ... generative art & jacquard weaving using code
-- 🌱 I’m currently learning ... Processing
+- 👀 I’m interested in ... integrating code into fibre art/woven textile
+- 🌱 I’m currently learning ... Processing, HTML, and CSS
 - 💞️ I’m looking to collaborate on ... textile/art projects
-- 📫 How to reach me ... twt @lillybeards
+- 📫 How to reach me ... instagram @lillyfrancesbeards
 
 <!---
 lillybeards/lillybeards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
