@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lilly
 - 👀 I’m interested in ... integrating code into fibre art/woven textile
-- 🌱 I’m currently learning ... Processing, HTML, and CSS
+- 🌱 I’m currently learning ... Processing, HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on ... textile/art projects
 - 📫 How to reach me ... instagram @lillyfrancesbeards
 
